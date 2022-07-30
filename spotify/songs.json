@@ -1,0 +1,62 @@
+[
+    {
+        "songName": "Warriyo - Mortals [NCS Release]", 
+        "filePath": "songs/1.mp3", 
+        "coverPath": "covers/1.jpg",
+        "id": 1
+    },
+    {
+        "songName": "Cielo - Huma-Huma",
+        "filePath": "songs/2.mp3", 
+        "coverPath": "covers/2.jpg",
+        "id": 2
+    },
+    {
+        "songName": "DEAF KEV - Invincible [NCS Release]-320k", 
+        "filePath": "songs/3.mp3", 
+        "coverPath": "covers/3.jpg",
+        "id": 3
+    },
+    {
+        "songName": "Different Heaven & EH!DE - My Heart [NCS Release]",
+        "filePath": "songs/4.mp3", 
+        "coverPath": "covers/4.jpg",
+        "id": 4
+    },
+    {
+        "songName": "Janji-Heroes-Tonight-feat-Johnning-NCS-Release", 
+        "filePath": "songs/5.mp3", 
+        "coverPath": "covers/5.jpg",
+        "id": 5
+    },
+    {
+        "songName": "Rabba - Salam-e-Ishq", 
+        "filePath": "songs/6.mp3", 
+        "coverPath": "covers/6.jpg",
+        "id": 6
+    },
+    {
+        "songName": "Sakhiyaan - Salam-e-Ishq", 
+        "filePath": "songs/7.mp3", 
+        "coverPath": "covers/7.jpg",
+        "id": 7
+    },
+    {
+        "songName": "Bhula Dena - Salam-e-Ishq",
+        "filePath": "songs/8.mp3", 
+        "coverPath": "covers/8.jpg",
+        "id": 8
+    },
+    {
+        "songName": "Tumhari Kasam - Salam-e-Ishq", 
+        "filePath": "songs/9.mp3", 
+        "coverPath": "covers/9.jpg",
+        "id": 9
+    },
+    {
+        "songName": "Na Jaana - Salam-e-Ishq", 
+        "filePath": "songs/10.mp3", 
+        "coverPath": "covers/10.jpg",
+        "id": 10
+    }
+]

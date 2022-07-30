@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+body {
+    background-color: antiquewhite;
+    width: 100%;
+    margin: auto;
+}
+
+.navbar{
+    background-color: gray;
+}
+
+.navbar ul{
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.navbar ul li{
+    list-style: none;
+    padding: 0px 12px;
+}
+
+.logo img{
+    padding: 0px 8px;
+    height:40px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.container{
+    height: 75vh;
+    color: rgb(65, 56, 56);
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    padding: 12px 20px;
+    border-radius: 14px;
+    background-image: url('pexels-miguel-á-padriñán-255379.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bottom{
+    position: sticky;
+    background-color: rgb(65, 62, 62);
+    height: 80px;
+    display: flex;
+    bottom: 0;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.icons{
+    margin: 8px 0px;
+}
+
+.icons i{
+    cursor: pointer;
+}
+
+#mypro{
+    width: 70%;
+    cursor: pointer;
+}
+
+.songlist{
+    width: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+.songitem{
+    height: 50px;
+    display: flex;
+    width: 80%;
+    color: black;
+    margin: 12px 0;
+    align-items: center;
+    border-radius: 34px;
+    background-color: antiquewhite;
+}
+
+.songitem img{
+    width: 7%;
+    height: 30px;
+    border-radius: 6px;
+    margin: 0px 18px;
+}
+
+span{
+    margin: 0 auto;
+}
+
+.timestep{
+    margin: 1px;
+}
+
+.playsong{
+    margin: 10px;
+    display: flex;
+    background-color: antiquewhite;
+    border-radius: 12px;
+    height: 40px;
+    margin: 8px auto;
+    cursor: pointer;
+}
+
+.songimg{
+    margin: auto;
+    width: 4%;
+    height: 75%;
+    border-radius: 50%;
+}
+
+.songname{
+    margin: auto;
+    width: 70%;
+}
+
+.playSongList{
+    margin: auto;
+    width: 6%;
+    border-radius: 24px;
+}
+
+.songfile{
+    display: none;
+}
